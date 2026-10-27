@@ -1,0 +1,4 @@
+# Empty ship cannot fire
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,ALL

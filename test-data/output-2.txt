@@ -1,0 +1,5 @@
+# SINGLE alternates primary and secondary
+SUCCESS
+SUCCESS
+FAIL
+SUCCESS

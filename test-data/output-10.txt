@@ -1,0 +1,4 @@
+# ALL with empty primary
+SUCCESS
+SUCCESS
+FAIL

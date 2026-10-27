@@ -1,0 +1,5 @@
+# SINGLE alternates primary and secondary
+GT4500,2,0,2,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

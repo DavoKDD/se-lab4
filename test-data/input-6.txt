@@ -1,0 +1,3 @@
+# ALL succeeds when only secondary fires
+GT4500,1,1,1,0
+TORPEDO,ALL

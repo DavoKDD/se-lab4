@@ -1,0 +1,5 @@
+# ALL fires both stores and exhausts both
+SUCCESS
+SUCCESS
+FAIL
+FAIL

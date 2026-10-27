@@ -1,0 +1,5 @@
+# Empty secondary falls back to primary
+SUCCESS
+SUCCESS
+SUCCESS
+FAIL
