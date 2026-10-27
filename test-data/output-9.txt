@@ -1,0 +1,4 @@
+# Empty ship cannot fire
+SUCCESS
+FAIL
+FAIL

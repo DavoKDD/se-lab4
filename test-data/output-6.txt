@@ -1,0 +1,3 @@
+# ALL succeeds when only secondary fires
+SUCCESS
+SUCCESS

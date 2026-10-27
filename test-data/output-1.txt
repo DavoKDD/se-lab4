@@ -1,0 +1,3 @@
+# First SINGLE fires primary; failure does not trigger fallback
+SUCCESS
+FAIL
